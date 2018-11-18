@@ -1,3 +1,5 @@
+XRDP
+
 https://devopscube.com/how-to-setup-gui-for-amazon-ec2-rhel-7-instance/
 
 sudo yum -y update
@@ -17,3 +19,10 @@ sudo firewall-cmd --reload
 sudo passwd ec2-user
 sudo su
 passwd
+
+
+NX
+sudo rpm -i nomachine_6.3.6_1_x86_64.rpm
+sudo firewall-cmd --permanent --add-port=4000/tcp
+sudo firewall-cmd --permanent --add-port=4810/udp
+sudo firewall-cmd --reload
