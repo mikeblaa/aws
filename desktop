@@ -1,0 +1,19 @@
+https://devopscube.com/how-to-setup-gui-for-amazon-ec2-rhel-7-instance/
+
+sudo yum -y update
+sudo yum groupinstall -y "Server with GUI"
+sudo systemctl set-default graphical.target
+sudo systemctl default
+sudo systemctl set-default graphical.target
+sudo systemctl default
+sudo rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-1.el7.nux.noarch.rpm
+sudo yum install -y xrdp tigervnc-server
+chcon --type=bin_t /usr/sbin/xrdp
+chcon --type=bin_t /usr/sbin/xrdp-sesman
+sudo systemctl start xrdp
+sudo systemctl enable xrdp
+sudo firewall-cmd --permanent --add-port=3389/tcp
+sudo firewall-cmd --reload
+sudo passwd ec2-user
+sudo su
+passwd
