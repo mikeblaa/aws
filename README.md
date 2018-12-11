@@ -8,7 +8,7 @@ https://aws.amazon.com/getting-started/projects/
 
 https://aws.amazon.com/getting-started/projects/?awsf.getting-started-content=use-case-proj%23dev-ops
 
-Set up a CI/CD Pipeline on AWS (1.5 Hours)
+[Set up a CI/CD Pipeline on AWS](https://github.com/mikeblaa/aws/wiki/Set-up-a-CI-CD-Pipeline-on-AWS) (1.5 Hours)
 
 Set Up a Jenkins Build Server (45 Minutes)
 
