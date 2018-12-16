@@ -1,10 +1,18 @@
-# aws
+# AWS Resources
 
 Notes and links to track my work learning about AWS
 
 https://aws.amazon.com/getting-started/projects/
 
-## DevOps
+https://www.aws.training/
+
+## Training
+
+AWS Cloud Practitioner Essentials: Architecture (Dec 16, 2018)
+
+## Getting Started Projects
+
+### DevOps
 
 https://aws.amazon.com/getting-started/projects/?awsf.getting-started-content=use-case-proj%23dev-ops
 
