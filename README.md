@@ -8,7 +8,7 @@ https://www.aws.training/
 
 ## Training
 
-AWS Cloud Practitioner Essentials: Architecture (Dec 16, 2018)
+AWS Cloud Practitioner Essentials: Architecting (Dec 16, 2018)
 
 ## Getting Started Projects
 
