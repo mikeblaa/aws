@@ -6,6 +6,8 @@ https://aws.amazon.com/getting-started/projects/
 
 https://www.aws.training/
 
+https://www.certmetrics.com/amazon/
+
 ## Training
 
 AWS Cloud Practitioner Essentials: Architecting (Dec 16, 2018)
