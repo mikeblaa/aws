@@ -26,7 +26,7 @@ Migrate a Git Repository to AWS (30 Minutes)
 
 Break a Monolith App into Microservices (2 Hours)
 
-Deploy a Kubernetes Application (30 Minutes)
+[Deploy a Kubernetes Application](https://github.com/mikeblaa/aws/wiki/Deploy-a-Kubernetes-Application) (30 Minutes)
 
 Build a Modern Application (2.5 Hours)
 
